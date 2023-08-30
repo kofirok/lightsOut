@@ -1,4 +1,4 @@
-# P3 Lisp Lights-Out Game
+# Lisp Lights-Out Game
 ## Khalid Kofiro
 
 This is a Lisp code for a simple game that involves a 3x3 grid of lights. The game starts with a random number of lights turned on, and the objective is to turn them all off by flipping the light switches.
