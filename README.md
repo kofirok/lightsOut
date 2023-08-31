@@ -4,7 +4,7 @@
 This is a Lisp code for a simple game that involves a 3x3 grid of lights. The game starts with a random number of lights turned on, and the objective is to turn them all off by flipping the light switches.
 
 <p align="center">
-  <img src="images/lightsoutgame.png" alt="LightsOut" width="450"/>
+  <img src="images/lightsoutgame.png" alt="LightsOut" width="350"/>
 </p>
 
 ## Functions:
