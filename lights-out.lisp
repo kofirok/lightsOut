@@ -4,7 +4,7 @@
 ;; To watch the AI play uncomment watch-ai-play and load the file
 
  ;; (play-game)
- (watch-ai-play) 
+ ;;(watch-ai-play) 
 
 ;; The print-board function takes a list of 9 integers and prints
 ;; them in a 3x3 grid format, with each row on a new line.

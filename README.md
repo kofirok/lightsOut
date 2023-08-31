@@ -3,6 +3,10 @@
 
 This is a Lisp code for a simple game that involves a 3x3 grid of lights. The game starts with a random number of lights turned on, and the objective is to turn them all off by flipping the light switches.
 
+<p align="center">
+  <img src="images/lightsoutgame.png" alt="LightsOut" width="450"/>
+</p>
+
 ## Functions:
 
 * print-board: Takes a list of 9 integers and prints them in a 3x3 grid format, with each row on a new line.
